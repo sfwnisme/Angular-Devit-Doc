@@ -247,8 +247,6 @@
       <p>sfwn is working</p>
       <mark>{{ city }}</mark>
       <div>
-        <mark>{{ 34 + 234 }}</mark>
-        <h1>names</h1>
         @for (name of names; track name) {
           <p>{{ name }}</p>
         }

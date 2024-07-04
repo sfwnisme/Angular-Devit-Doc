@@ -1,0 +1,19 @@
+import { Component } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
+
+@Component({
+  selector: 'app-root',
+  standalone: true,
+  imports: [RouterOutlet],
+  templateUrl: './app.component.html',
+  styleUrl: './app.component.css',
+})
+export class AppComponent {
+  title: string = 'lesson-01';
+  city: string = 'San francisco'; // invoking it in the template in this way {{city}}
+  names: string[] = ['John', 'Doe', 'Jane', 'Doe']; // invoking in this way using @for (name of names) {{name}}
+}
+
+/* Notes
+ * the components logic and behaviors ar defined in the component's class
+ * */

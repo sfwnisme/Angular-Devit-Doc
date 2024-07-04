@@ -1,27 +1,157 @@
-# Lesson01
+# Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+![alt text](https://github.com/blackPeppper/angular-roadmap-devit/raw/main/roadmap.jpg)
 
-## Development server
+## Angular Official topics
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+-[x] Anatomy of a Component
+-[x] Updating the component
+-[x] Component composition
+-[x] Control flow in components - @if
+-[x] Control flow - @for
+-[x] Property Binding
+-[x] Event handling
+-[x] Communicating with @Input
+-[x] Communicating with @Output
+-[x] Deferrable views
+-[x] Optimizing images
+-[ ] Enabling routing
+-[ ] Define a route
+-[ ] Link to a route with RouterLink
+-[ ] Forms
+-[ ] Getting form control values
+-[ ] Reactive forms
+-[ ] Validating forms
+-[ ] Creating an injectable service
+-[ ] Inject-based dependency injection
+-[ ] Constructor-based dependency injection
+-[ ] Pipes
+-[ ] Formatting data with pipes
+-[ ] Create a pipe
 
-## Code scaffolding
+## Volume 1
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Angular Basics
 
-## Build
+- **CLI**: Learn as you go.
+- **Project Structure**: Learn as you go.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Components - 8 hours
 
-## Running unit tests
+-[x] Generate components using CLI.
+-[x] Understand single-file components via templates, styles, and attributes.
+-[ ] Implement MVC pattern in components.
+-[ ] Master templates, styles, and services in components.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Data Binding & Directives - 18 hours
 
-## Running end-to-end tests
+#### Data Binding
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+-[ ]Interpolation
+-[ ]Property binding
+-[ ]Event binding
+-[ ]Two-way binding
 
-## Further help
+#### Directives
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+-[ ] Structural directives: `*ngIf`, `*ngFor`
+-[ ] Attribute directives: `ngClass`, `ngStyle`
+
+> Review Volume 2 for more details.
+
+### Services & Dependency Injection - 8 hours
+
+-[ ] Creating services
+-[ ] Injecting services
+-[ ] Hierarchical dependency injection
+
+### Routing - 12 hours
+
+-[ ]Angular Router basics
+-[ ]Configuring routes
+-[ ]Route parameters
+-[ ]Route grades ( protected route )
+-[ ]Lazy loading
+
+### Forms - 10 hours
+
+- **Reactive Forms**
+-[ ] Form validation
+-[ ] Template-driven forms
+
+### HTTP Client - 3 hours
+
+-[ ] HttpClientModule
+-[ ] Making HTTP requests
+-[ ] Interceptors
+
+### Advanced Topics - 3 hours
+
+-[ ] Change detection
+-[ ] Pipes
+
+#### +4 hours from Volume 2
+
+-[ ] Custom directives
+-[ ] Custom pipes
+
+### State Management - 4 hours
+
+-[ ] NgRx
+-[ ] Services for state management
+
+### UI Library
+
+-[ ] Angular Material: Learn as you go.
+-[ ] PrimeNG: Learn as you go.
+-[ ] tailwind - 3 hours
+
+### assignment
+
+> under review
+
+## Volume 2
+
+### Directives - 3 hours
+
+#### Control Flow
+
+-[x] `@if`
+-[x] `@for`
+-[x] `@else`
+-[x] `@defer` (Deferrable Views)
+-[x] `@placeholder`
+-[x] `@loading`
+
+### Optimizing Images - 30 minutes
+
+-[ ] NgOptimizedImage
+-[ ] `[ngSrc]`
+
+### RxJS - 16 hours
+
+-[ ] Observables
+-[ ] Operators
+-[ ] Subjects
+-[ ] Best practices
+
+## Volume 3
+
+### Angular Universal - 3 hours
+
+-[ ] Server-side rendering (SSR)
+-[ ] Prerendering
+-[ ] @angular/platform-browser
+
+### Testing - 20 hours
+
+-[ ] Jest: Learn the API
+-[ ] Vitest
+-[ ] Angular testing integration
+
+### Other Modules
+
+-[ ] Angular animations
+-[ ] Angular internationalization
+-[ ] Angular without ZoneJS (zoneless)
+-[ ] Angular signals
