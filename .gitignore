@@ -7,7 +7,9 @@
 /bazel-out
 
 # Node
-/node_modules
+# /lesson 01-10/node_modules
+# /lesson-12/node_modules
+**/node_modules/
 npm-debug.log
 yarn-error.log
 
