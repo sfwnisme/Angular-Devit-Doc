@@ -13,12 +13,12 @@
 - [x] Communicating with @Output
 - [x] Deferrable views
 - [x] Optimizing images
-- [ ] Enabling routing
-- [ ] Define a route
-- [ ] Link to a route with RouterLink
-- [ ] Forms
-- [ ] Getting form control values
-- [ ] Reactive forms
+- [x] Enabling routing
+- [x] Define a route
+- [x] Link to a route with RouterLink
+- [x] Forms
+- [x] Getting form control values
+- [x] Reactive forms
 - [ ] Validating forms
 - [ ] Creating an injectable service
 - [ ] Inject-based dependency injection
@@ -26,6 +26,11 @@
 - [ ] Pipes
 - [ ] Formatting data with pipes
 - [ ] Create a pipe
+
+## more topics I have to read form more efficincy
+
+- [ ] [two-way data binding](https://angular.dev/guide/templates/two-way-binding)
+- [ ] If you'd like to learn more about template-driven forms, please refer to the Angular forms documentation [Angular forms documentation](https://angular.dev/guide/forms/reactive-forms)
 
 ## Volume 1
 
