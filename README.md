@@ -43,16 +43,16 @@
 
 - [x] Generate components using CLI.
 - [x] Understand single-file components via templates, styles, and attributes.
-- [ ] Implement MVC pattern in components.
+- [x] Implement MVC pattern in components.
 - [ ] Master templates, styles, and services in components.
 
 ### Data Binding & Directives - 18 hours
 
 #### Data Binding
 
-- [ ] Interpolation
-- [ ] Property binding
-- [ ] Event binding
+- [x] Interpolation
+- [x] Property binding
+- [x] Event binding
 - [ ] Two-way binding
 
 #### Directives
@@ -70,9 +70,9 @@
 
 ### Routing - 12 hours
 
-- [ ] Angular Router basics
-- [ ] Configuring routes
-- [ ] Route parameters
+- [x] Angular Router basics
+- [x] Configuring routes
+- [x] Route parameters
 - [ ] Route grades ( protected route )
 - [ ] Lazy loading
 
@@ -80,7 +80,7 @@
 
 - **Reactive Forms**
 - [ ] Form validation
-- [ ] Template-driven forms
+- [x] Template-driven forms
 
 ### HTTP Client - 3 hours
 
@@ -128,8 +128,8 @@
 
 ### Optimizing Images - 30 minutes
 
-- [ ] NgOptimizedImage
-- [ ] `[ngSrc]`
+- [x] NgOptimizedImage
+- [x] `[ngSrc]`
 
 ### RxJS - 16 hours
 
