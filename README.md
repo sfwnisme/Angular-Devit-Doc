@@ -19,9 +19,9 @@
 - [x] Forms
 - [x] Getting form control values
 - [x] Reactive forms
-- [ ] Validating forms
-- [ ] Creating an injectable service
-- [ ] Inject-based dependency injection
+- [x] Validating forms
+- [x] Creating an injectable service
+- [x] Inject-based dependency injection
 - [ ] Constructor-based dependency injection
 - [ ] Pipes
 - [ ] Formatting data with pipes
