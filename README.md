@@ -22,10 +22,10 @@
 - [x] Validating forms
 - [x] Creating an injectable service
 - [x] Inject-based dependency injection
-- [ ] Constructor-based dependency injection
-- [ ] Pipes
-- [ ] Formatting data with pipes
-- [ ] Create a pipe
+- [x] Constructor-based dependency injection
+- [x] Pipes
+- [x] Formatting data with pipes
+- [x] Create a pipe
 
 ## more topics I have to read form more efficincy
 
@@ -44,7 +44,7 @@
 - [x] Generate components using CLI.
 - [x] Understand single-file components via templates, styles, and attributes.
 - [x] Implement MVC pattern in components.
-- [ ] Master templates, styles, and services in components.
+- [x] Master templates, styles, and services in components.
 
 ### Data Binding & Directives - 18 hours
 
@@ -64,8 +64,8 @@
 
 ### Services & Dependency Injection - 8 hours
 
-- [ ] Creating services
-- [ ] Injecting services
+- [x] Creating services
+- [x] Injecting services
 - [ ] Hierarchical dependency injection
 
 ### Routing - 12 hours
@@ -79,7 +79,7 @@
 ### Forms - 10 hours
 
 - **Reactive Forms**
-- [ ] Form validation
+- [x] Form validation
 - [x] Template-driven forms
 
 ### HTTP Client - 3 hours
@@ -91,12 +91,12 @@
 ### Advanced Topics - 3 hours
 
 - [ ] Change detection
-- [ ] Pipes
+- [x] Pipes
 
 #### +4 hours from Volume 2
 
 - [ ] Custom directives
-- [ ] Custom pipes
+- [x] Custom pipes
 
 ### State Management - 4 hours
 
